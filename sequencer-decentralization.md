@@ -7,3 +7,4 @@ Many Layer 2 networks operate with a single centralized sequencer.
 - Downtime risk
 ## Mitigation Strategies
 Projects are exploring shared sequencers and proof-of-efficiency.
+### References
