@@ -4,3 +4,4 @@ Sequencers order Layer 2 transactions before submission to Ethereum.
 Many Layer 2 networks operate with a single centralized sequencer.
 ## Centralization Risks
 - Transaction censorship
+- Downtime risk
