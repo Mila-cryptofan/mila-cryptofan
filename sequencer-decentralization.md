@@ -11,3 +11,4 @@ Projects are exploring shared sequencers and proof-of-efficiency.
 - Ethereum Roadmap
 - L2Beat Research
 *Note: This document is a work in progress.*
+--- (End of Day 1)
