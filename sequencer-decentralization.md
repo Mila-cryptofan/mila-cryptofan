@@ -6,3 +6,4 @@ Many Layer 2 networks operate with a single centralized sequencer.
 - Transaction censorship
 - Downtime risk
 ## Mitigation Strategies
+Projects are exploring shared sequencers and proof-of-efficiency.
