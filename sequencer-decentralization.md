@@ -8,3 +8,4 @@ Many Layer 2 networks operate with a single centralized sequencer.
 ## Mitigation Strategies
 Projects are exploring shared sequencers and proof-of-efficiency.
 ### References
+- Ethereum Roadmap
