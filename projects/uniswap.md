@@ -19,3 +19,5 @@ Liquidity providers earn swap fees.
 Fee tiers influence capital allocation efficiency.
 ## Ecosystem Integrations
 Uniswap integrates with wallets, analytics dashboards, and aggregators.
+## Governance Token Considerations
+Token holders vote on fee parameters and protocol upgrades.
