@@ -15,3 +15,9 @@ Infrastructure maturity further reduces onboarding friction.
 - Regulatory uncertainty
 - Over-reliance on incentives
 - Liquidity migration to competing L2s
+## Liquidity as a Growth Engine
+Liquidity depth drives:
+- Lower slippage
+- Trader retention
+- Protocol integrations
+Sustained liquidity reduces ecosystem fragility.
