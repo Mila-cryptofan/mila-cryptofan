@@ -10,3 +10,7 @@ Liquidity providers deposit token pairs and earn fees from swaps.
 ## Strategic Role on Base
 Uniswap provides foundational liquidity and supports token launches.
 Its presence increases ecosystem credibility.
+## Risk Factors
+- Liquidity migration risk
+- Governance concentration
+- Smart contract vulnerabilities
