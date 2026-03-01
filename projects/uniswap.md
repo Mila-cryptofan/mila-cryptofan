@@ -17,3 +17,5 @@ Its presence increases ecosystem credibility.
 ## Fee Structure
 Liquidity providers earn swap fees.
 Fee tiers influence capital allocation efficiency.
+## Ecosystem Integrations
+Uniswap integrates with wallets, analytics dashboards, and aggregators.
