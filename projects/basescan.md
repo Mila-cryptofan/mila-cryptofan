@@ -8,3 +8,6 @@ It enables users to:
 - Inspect smart contracts
 - Track token transfers
 - Monitor gas usage
+## Functional Importance
+Block explorers improve transparency and developer efficiency.
+They serve as a public verification layer for onchain activity.
