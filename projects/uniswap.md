@@ -14,3 +14,6 @@ Its presence increases ecosystem credibility.
 - Liquidity migration risk
 - Governance concentration
 - Smart contract vulnerabilities
+## Fee Structure
+Liquidity providers earn swap fees.
+Fee tiers influence capital allocation efficiency.
