@@ -10,3 +10,8 @@ Core Features:
 ## Value Proposition
 Aerodrome aims to concentrate liquidity and provide efficient trading routes.
 It positions itself as a central liquidity layer within the Base ecosystem.
+## Token Utility
+The protocol token may be used for:
+- Governance voting
+- Liquidity incentives
+- Fee distribution mechanisms
