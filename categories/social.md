@@ -6,3 +6,6 @@ Areas:
 - NFT communities
 - Identity systems
 Adoption in this category reflects retail engagement.
+## Market Behavior
+Social applications experience rapid speculative cycles.
+Sustained adoption requires utility beyond token speculation.
