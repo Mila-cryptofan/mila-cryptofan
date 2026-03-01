@@ -59,3 +59,5 @@ This repository now includes:
 - Weekly ecosystem tracking
 - Thematic research documents
 Coverage will continue to expand.
+## Metrics Tracking
+A standardized tracking template is included to ensure consistency in analysis.
