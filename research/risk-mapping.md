@@ -4,3 +4,6 @@ Primary risk clusters:
 2. Liquidity concentration risk
 3. Governance centralization
 4. Incentive distortion
+## Oracle Risk
+DeFi protocols depend on accurate data feeds.
+Manipulated or delayed feeds can trigger cascading failures.
