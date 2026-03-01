@@ -12,3 +12,9 @@ The model combines social networking with financial incentives.
 Users buy and sell "keys" representing access.
 
 Prices adjust algorithmically based on demand.
+## Adoption Considerations
+
+Adoption depends on:
+- Influencer participation
+- Network effects
+- Platform trust
