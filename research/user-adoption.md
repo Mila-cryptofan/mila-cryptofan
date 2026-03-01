@@ -4,3 +4,6 @@ Key factors influencing adoption:
 2. Ease of onboarding
 3. Incentive programs
 4. Availability of high-liquidity trading venues
+## Retention Challenges
+Short-term incentive-driven growth may not translate to long-term retention.
+Utility-driven engagement is more sustainable.
