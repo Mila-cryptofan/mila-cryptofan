@@ -7,3 +7,6 @@ Key factors influencing adoption:
 ## Retention Challenges
 Short-term incentive-driven growth may not translate to long-term retention.
 Utility-driven engagement is more sustainable.
+## Onboarding Flow
+Simplified wallet onboarding reduces friction.
+Fiat onramps significantly impact growth.
