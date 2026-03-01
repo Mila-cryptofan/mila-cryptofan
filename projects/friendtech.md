@@ -18,3 +18,8 @@ Competes with:
 - Uniswap
 - Other Base-native DEXs
 Liquidity incentives determine long-term dominance.
+## Sustainability Outlook
+Sustainability depends on:
+- Creator retention
+- Network growth beyond speculation
+- Platform innovation
