@@ -35,3 +35,10 @@ Track ecosystem growth, identify patterns, and assess project fundamentals.
 - weekly-notes/ — periodic observations
 - research/ — deeper thematic analysis
 This repository will evolve as the Base ecosystem expands.
+## Methodology
+Project documentation includes:
+- Functional overview
+- Token utility analysis
+- Competitive positioning
+- Risk assessment
+Research is updated incrementally.
