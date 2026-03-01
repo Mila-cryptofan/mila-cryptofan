@@ -8,3 +8,9 @@ Competitive factors include:
 - Fees
 - Ecosystem size
 - Developer tooling
+## Comparative Strengths
+Base advantages:
+- Coinbase distribution channel
+- Strong retail onboarding
+Challenges:
+- Differentiation beyond branding
