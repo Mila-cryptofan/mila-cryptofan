@@ -6,3 +6,6 @@ Examples:
 - Analytics platforms
 - Developer tooling
 Infrastructure is critical for ecosystem scalability.
+## Infrastructure Observations
+Infrastructure reliability directly influences user experience.
+Centralized providers currently dominate RPC access.
