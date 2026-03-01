@@ -7,3 +7,7 @@ Users deposit assets to earn yield and borrow against collateral.
 ## Lending Model
 Interest rates adjust algorithmically based on supply and demand.
 Utilization rate influences borrowing costs.
+## Risk Considerations
+- Liquidation risk
+- Oracle dependency
+- Smart contract vulnerabilities
