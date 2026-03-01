@@ -19,4 +19,13 @@ Focus areas:
 - Social
 - Gaming
 - Tooling
-
+# Base Ecosystem Tracker
+This repository documents and analyzes projects building on Base.
+Focus areas:
+- DeFi
+- Infrastructure
+- Social
+- Tooling
+- Analytics
+Objective:
+Track ecosystem growth, identify patterns, and assess project fundamentals.
