@@ -11,3 +11,7 @@ It enables users to:
 ## Functional Importance
 Block explorers improve transparency and developer efficiency.
 They serve as a public verification layer for onchain activity.
+## Risk Considerations
+- Centralized data hosting risk
+- Explorer reliance for debugging workflows
+- Potential data indexing delays
