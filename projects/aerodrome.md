@@ -30,3 +30,5 @@ Governance structure influences:
 - Incentive distribution
 - Strategic direction
 - Protocol upgrade decisions
+## Capital Efficiency
+Capital efficiency impacts trader slippage and protocol attractiveness.
