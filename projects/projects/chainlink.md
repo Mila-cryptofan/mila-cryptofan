@@ -4,3 +4,8 @@ Type: Oracle Network
 Overview:
 Chainlink provides decentralized oracle services for smart contracts.
 It enables price feeds and external data access.
+## Importance for DeFi
+Reliable price feeds are essential for:
+- Liquidations
+- Lending protocols
+- Stablecoin systems
