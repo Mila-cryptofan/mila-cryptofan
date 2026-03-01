@@ -15,3 +15,8 @@ The protocol token may be used for:
 - Governance voting
 - Liquidity incentives
 - Fee distribution mechanisms
+## Risk Considerations
+Potential risks include:
+- Liquidity fragmentation
+- Smart contract vulnerabilities
+- Dependence on overall Base network growth
