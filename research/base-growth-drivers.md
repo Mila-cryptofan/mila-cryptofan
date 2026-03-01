@@ -11,3 +11,7 @@ Infrastructure maturity further reduces onboarding friction.
 ## Developer Incentives
 Hackathons, grants, and liquidity mining programs stimulate builder activity.
 Infrastructure maturity further reduces onboarding friction.
+## Risk Factors
+- Regulatory uncertainty
+- Over-reliance on incentives
+- Liquidity migration to competing L2s
