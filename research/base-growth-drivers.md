@@ -5,3 +5,9 @@ Key drivers:
 3. EVM compatibility
 4. Developer accessibility
 Growth sustainability depends on user retention.
+## Developer Incentives
+Hackathons, grants, and liquidity mining programs stimulate builder activity.
+Infrastructure maturity further reduces onboarding friction.
+## Developer Incentives
+Hackathons, grants, and liquidity mining programs stimulate builder activity.
+Infrastructure maturity further reduces onboarding friction.
