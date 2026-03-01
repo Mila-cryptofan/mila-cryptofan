@@ -29,3 +29,9 @@ Focus areas:
 - Analytics
 Objective:
 Track ecosystem growth, identify patterns, and assess project fundamentals.
+## Repository Structure
+- categories/ — ecosystem classification
+- projects/ — individual project analyses
+- weekly-notes/ — periodic observations
+- research/ — deeper thematic analysis
+This repository will evolve as the Base ecosystem expands.
