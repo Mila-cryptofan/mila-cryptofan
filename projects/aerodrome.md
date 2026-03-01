@@ -32,3 +32,5 @@ Governance structure influences:
 - Protocol upgrade decisions
 ## Capital Efficiency
 Capital efficiency impacts trader slippage and protocol attractiveness.
+## Liquidity Incentive Design
+Reward emissions influence liquidity depth but may dilute token value.
