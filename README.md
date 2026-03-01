@@ -47,3 +47,8 @@ Research is updated incrementally.
 - 2 weekly ecosystem updates
 - Multiple research briefs
 Ongoing expansion planned.
+## Research Themes
+- Liquidity dynamics
+- Infrastructure robustness
+- User adoption sustainability
+- Competitive positioning
