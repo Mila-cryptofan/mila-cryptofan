@@ -4,3 +4,5 @@ Projects may use:
 - Delegated governance
 - Multisig control
 - Progressive decentralization
+## Governance Tradeoffs
+More decentralization increases resilience but slows decision-making.
