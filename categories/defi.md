@@ -12,3 +12,5 @@ Each project will be analyzed separately in the projects directory.
 ## Current Observations
 DEX liquidity protocols dominate the DeFi category on Base.
 Lending infrastructure remains less developed.
+## Emerging Trends
+Early-stage DeFi protocols may experiment with novel incentive models.
